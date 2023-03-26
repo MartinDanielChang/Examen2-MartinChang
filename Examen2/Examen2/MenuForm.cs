@@ -28,5 +28,7 @@ namespace Examen2
             TicketForm.MdiParent = this;
             TicketForm.Show();
         }
+
+      
     }
 }
