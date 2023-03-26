@@ -135,6 +135,10 @@ namespace Examen2
             TotalTextBox.Clear();
         }
 
+        private void CancelarButton_Click(object sender, EventArgs e)
+        {
+            LimpiarControles();
+        }
     }
 }
     

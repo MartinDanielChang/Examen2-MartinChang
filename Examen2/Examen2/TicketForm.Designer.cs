@@ -332,6 +332,7 @@ namespace Examen2
             this.CancelarButton.TabIndex = 17;
             this.CancelarButton.Text = "Cancelar";
             this.CancelarButton.UseVisualStyleBackColor = true;
+            this.CancelarButton.Click += new System.EventHandler(this.CancelarButton_Click);
             // 
             // label10
             // 
